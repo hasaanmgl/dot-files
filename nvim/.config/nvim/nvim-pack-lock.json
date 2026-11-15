@@ -86,6 +86,10 @@
       "rev": "74b06c6c75e4eeb3108ec01852001636d85a932b",
       "src": "https://github.com/nvim-lua/plenary.nvim"
     },
+    "scaffold.nvim": {
+      "rev": "dad490328409cd2aca5061c869d9ead422c48b31",
+      "src": "git@github.com:hassaammgl/scaffold.nvim"
+    },
     "toggleterm.nvim": {
       "rev": "50ea089fc548917cc3cc16b46a8211833b9e3c7c",
       "src": "https://github.com/akinsho/toggleterm.nvim"

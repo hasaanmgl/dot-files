@@ -1,6 +1,5 @@
 # Terminals & shells
 kitty
-wezterm
 tmux
 fish
 starship
@@ -12,7 +11,6 @@ vim
 nano
 fastfetch
 btop
-htop
 eza
 fzf
 zoxide
@@ -21,7 +19,6 @@ ripgrep
 fd
 jq
 less
-lazygit
 lazydocker
 chafa
 tldr

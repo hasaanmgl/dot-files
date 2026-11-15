@@ -1,14 +1,9 @@
 wallust
 bibata-cursor-theme
-google-chrome
 brave-bin
 helium-browser-bin
 visual-studio-code-bin
-vscodium-bin
-ani-cli
 localsend-bin
 toofan-bin
 cppman
-sonora-bin
-spotify
 r-linux
