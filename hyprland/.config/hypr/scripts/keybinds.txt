@@ -1,0 +1,122 @@
+󰘴  General
+SUPER + Space           Launcher (Quickshell)
+SUPER + K               Notification history (left sidebar)
+SUPER + Return          Terminal (kitty)
+SUPER + SHIFT + T        Terminal + tmux sessions (kitty)
+SUPER + B               Browser (brave)
+SUPER + C               Editor (code)
+SUPER + E               File explorer (nautilus)
+SUPER + ALT + E         File explorer (dolphin)
+SUPER + M               Music workspace toggle
+SUPER + D               Communication workspace toggle
+SUPER + R               Todo workspace toggle
+CTRL + SHIFT + Escape   System monitor workspace toggle
+SUPER + Escape          Power menu (Quickshell)
+SUPER + L               Lock (Quickshell)
+SUPER + SHIFT + L       Suspend then hibernate
+ALT + H                 This help (Quickshell)
+
+󰐥  Windows
+SUPER + W               Close window
+SUPER + F               Fullscreen
+SUPER + ALT + F         Fullscreen with borders
+SUPER + T               Toggle floating / tiled
+SUPER + ALT + Space     Toggle floating / tiled
+SUPER + SHIFT + P       Pseudo-tile (dwindle)
+SUPER + J               Toggle split orientation (side / stacked)
+SUPER + SHIFT + J       Swap the two split halves
+SUPER + [ / ]           Shrink / grow split
+CTRL + SUPER + arrows   Swap with neighbor window
+SUPER + ALT + SHIFT + arrows Move window to monitor
+SUPER + P               Pin window
+SUPER + Comma           Toggle window group
+SUPER + U               Ungroup window
+SUPER + SHIFT + Comma   Lock/unlock active group
+ALT + Tab               Cycle windows
+SHIFT + ALT + Tab       Cycle windows (back)
+CTRL + ALT + Tab        Cycle group active (forward)
+CTRL + SHIFT + ALT + Tab Cycle group active (back)
+SUPER + LMB             Drag window
+SUPER + RMB             Resize window
+CTRL + SUPER + \        Center window
+CTRL + SUPER + ALT + \  Float + size + center
+
+󰶐  Focus & Move
+SUPER + arrows          Focus window
+SUPER + SHIFT + arrows  Move window (direction)
+SUPER + ALT + arrows    Resize window
+SUPER + Minus / Equal   Resize width
+SUPER + SHIFT + Minus/Equal Resize height
+
+󰓥  Workspaces
+SUPER + 1-0             Switch workspace 1-10
+SUPER + SHIFT + 1-0     Move window to workspace 1-10
+CTRL + SUPER + 1-0      Switch workspace 11-20
+CTRL + SUPER + ALT + 1-0 Move window to workspace 11-20
+SUPER + SHIFT + left/right Prev/next workspace
+SUPER + Page_Up/Down    Prev/next workspace
+SUPER + scroll          Prev/next workspace
+CTRL + SUPER + scroll   Jump ±10 workspaces
+SUPER + S               Toggle special workspace
+SUPER + ALT + S         Move window to special
+SUPER + ALT + Page_Up/Down Move window to prev/next workspace
+SUPER + ALT + scroll    Move window to prev/next workspace
+CTRL + SUPER + SHIFT + left/right Move window to prev/next workspace
+CTRL + SUPER + SHIFT + up Move window to special
+CTRL + SUPER + SHIFT + down Move window to current workspace
+
+󰍽  Multimedia
+XF86AudioRaiseVolume    Volume up
+XF86AudioLowerVolume    Volume down
+XF86AudioMute           Mute
+XF86AudioMicMute        Mic mute
+XF86AudioPlay/Pause     Play/Pause
+XF86AudioNext           Next track
+XF86AudioPrev           Previous track
+XF86AudioStop           Stop
+SUPER + F1/F2/F3        Mute / Vol down / Vol up
+SUPER + SHIFT + M       Toggle mute
+SUPER + F6/F7           Brightness down/up
+XF86MonBrightnessUp/Down Brightness up/down
+CTRL + SUPER + Space    Play/Pause (playerctl)
+CTRL + SUPER + Equal    Next track
+CTRL + SUPER + Minus    Previous track
+SUPER + ALT + M         Now playing overlay (Quickshell)
+
+󰹑  Screenshot & Recording
+Print                   Screenshot (drag, click window, or double-click)
+SUPER + SHIFT + S       Screenshot (drag, click window, or double-click)
+SUPER + SHIFT + ALT + S Screenshot region (clipboard)
+SUPER + ALT + R         Record screen with audio
+CTRL + ALT + R          Record screen
+SUPER + SHIFT + ALT + R Record region
+SUPER + SHIFT + C       Color picker
+
+󰟸  Clipboard & Input
+SUPER + V               Clipboard history (Quickshell)
+SUPER + ALT + V         Clipboard delete (Quickshell)
+CTRL + SHIFT + ALT + V  Type latest clipboard
+SUPER + Period          Emoji picker (Quickshell)
+
+󰟸  Wallpaper
+ALT + W                 Wallpaper picker (Quickshell)
+SHIFT + ALT + W         Random wallpaper
+CTRL + ALT + W          Auto wallpaper on/off (picks a random one)
+
+󰟸  Bar (Quickshell)
+ALT + T                 Toggle bar
+ALT + SHIFT + T         Cycle bar position
+
+󰟸  Desktop widgets (anime)
+ALT + A                 Toggle all desktop widgets
+ALT + SHIFT + A         Cycle mascot character
+Bar cat icon            Left: toggle · Right: cycle · Middle: reset all
+On cards                Right-click: hide that widget
+On mascot               Left: cycle · Right: hide · Middle: corner
+qs ipc call widgets reset   Restore all widgets
+qs ipc call widgets clock|calendar|stats|media|mascot
+
+󰟸  Utilities
+CTRL + ALT + Escape     QPS process manager
+CTRL + ALT + V          Pavucontrol audio
+SUPER + ALT + F12       Test notification
